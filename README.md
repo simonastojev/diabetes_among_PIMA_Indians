@@ -1,1 +1,1 @@
-# diabetes_among_PIMA_Indians
+# Diabetes among Pima Indians
